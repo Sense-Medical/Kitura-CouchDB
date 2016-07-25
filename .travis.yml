@@ -6,7 +6,7 @@ branches:
   only:
     - master
     - develop
-    - gradle_removal
+    - determine_ubuntu
     - /^issue.*$/
 
 notifications:
