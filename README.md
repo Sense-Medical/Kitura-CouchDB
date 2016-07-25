@@ -1,5 +1,6 @@
 # Kitura-CouchDB
 
+
 [![Build Status](https://travis-ci.org/IBM-Swift/Kitura-CouchDB.svg?branch=master)](https://travis-ci.org/IBM-Swift/Kitura-CouchDB)
 [![Build Status](https://travis-ci.org/IBM-Swift/Kitura-CouchDB.svg?branch=develop)](https://travis-ci.org/IBM-Swift/Kitura-CouchDB)
 
